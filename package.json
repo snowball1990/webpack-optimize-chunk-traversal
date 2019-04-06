@@ -1,0 +1,18 @@
+{
+  "name": "webpack-optimize-chunk-traversal",
+  "version": "1.0.0",
+  "description": "optimize chunk traversal in webpack2",
+  "main": "index.js",
+  "repository": "https://github.com/snowball1990/webpack-optimize-chunk-traversal.git",
+  "author": "snowball",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "optimize",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/snowball1990/webpack-optimize-chunk-traversal/issues"
+  },
+  "homepage": "https://github.com/snowball1990/webpack-optimize-chunk-traversal/blob/master/README.md"
+}
