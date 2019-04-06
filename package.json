@@ -1,6 +1,6 @@
 {
   "name": "webpack-optimize-chunk-traversal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "optimize chunk traversal in webpack2",
   "main": "index.js",
   "repository": "https://github.com/snowball1990/webpack-optimize-chunk-traversal.git",
